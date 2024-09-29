@@ -23,6 +23,8 @@ LIST OF GUESSED WORDS
 2. sun
 3. galaxies
 4. planets
-
+5. nebula 
+6. supernova
+7. asteroid
 
 ENJOY!
