@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #136073;
+    text-align: center;
+}
+
+.container {
+    margin-top: 200px;
+}
+
+#wordDisplay {
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+.buttons {
+    margin: 20px 0;
+}
+
+button {
+    margin: 8px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#gameImage {
+    
+    height: 100vh; /* Maintain aspect ratio */
+    background-size: cover;
+}
+
